@@ -7,11 +7,6 @@ image:
 size: 4
 time: 20 minutes
 source: Coles Magazine, July 2022
-nutrition:
-  - 300 calories
-  - 60 g sugar
-  - 0.8 g fat
-  - 3.8 g protein
 salty: y
 veggie: y
 
