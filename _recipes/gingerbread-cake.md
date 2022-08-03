@@ -20,6 +20,7 @@ veggie: y
 # per the pan fired perilla leaves example
 # >>> will do a little warning bubble!
 # ![](strawberrysmoothie.jpg)
+
 ---
 
 > Preheat oven to 170C and grease two 22cm round cake pans.
@@ -58,6 +59,7 @@ veggie: y
 ## Swiss Meringue Buttercream
 
 ---
+
 * `5 large` egg whites
 * `330g` caster sugar
 * `425g` butter, softened
@@ -72,6 +74,7 @@ veggie: y
 > Let mixture cool slightly before gradually adding softened butter and beating. Add in vanilla extract.
 
 ## Assembly
+
 ---
 
 * Cooked cakes
