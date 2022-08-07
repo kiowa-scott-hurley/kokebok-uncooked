@@ -1,8 +1,8 @@
 ---
 title: Garlic Naan
 original_title: Coles
-category: Bread
-description: Simple naan bread recipe, with yoghurt 
+category: BAD
+description: This recipe was ATROCIOUS. Would never make again.  
 size: 8 naan
 source: Coles Magazine, July 2022
 salty: y
